@@ -52,6 +52,7 @@ div {
 
 body {
   background-color: rgb(57, 66, 63);
+  overflow: scroll;
 }
 Header {
   font-size: xx-large;
